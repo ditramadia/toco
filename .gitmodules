@@ -1,0 +1,15 @@
+[submodule "toco-app"]
+	path = toco-app
+	url = https://github.com/ditramadia/toco-app
+[submodule "toco-config"]
+	path = toco-config
+	url = https://github.com/ditramadia/toco-config
+[submodule "toco-rest"]
+	path = toco-rest
+	url = https://github.com/ditramadia/toco-rest.git
+[submodule "toco-soap"]
+	path = toco-soap
+	url = https://github.com/ditramadia/toco-soap.git
+[submodule "toco-spa"]
+	path = toco-spa
+	url = https://github.com/ditramadia/toco-spa.git
